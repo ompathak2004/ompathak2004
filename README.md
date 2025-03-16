@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **om2004.pathak@gmail.com**
 
-- 📄 Resume [Link](https://drive.google.com/file/d/1C6TDRqtlaPbo1VhDZTHhgvhTgGIZ4LsD/view?usp=drive_link)
+- 📄 Resume [Link](https://drive.google.com/file/d/15p-iYPex1YW73IyMeS7deBxy6wg974pF/view)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompathak2004&label=Profile%20views&color=0e75b6&style=flat" alt="ompathak2004" /> </p>
 
